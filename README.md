@@ -1,4 +1,4 @@
-![Unity AI Screenshot](Unity_AI/Screenshots/screenshot.png)
+![Unity AI Screenshot](Screenshots/screenshot.png)
 
 
 # Unity Artificial Intelligence Project
